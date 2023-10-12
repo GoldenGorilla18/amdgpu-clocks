@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "amdgpu-clocks",
+			"path": "../../../../Public/Documents/amdgpu-clocks"
+		}
+	],
+	"settings": {}
+}
